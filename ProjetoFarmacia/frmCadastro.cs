@@ -10,17 +10,13 @@ using System.Windows.Forms;
 
 namespace ProjetoFarmacia
 {
-    public partial class frmTelaPrincipal : Form
+    public partial class frmCadastro : Form
     {
-        public frmTelaPrincipal()
+        public frmCadastro()
         {
             InitializeComponent();
         }
 
-        private void btnCadastro_Click(object sender, EventArgs e)
-        {
-            var cadastro = new frmCadastro();
-            cadastro.ShowDialog();
-        }
+
     }
 }
