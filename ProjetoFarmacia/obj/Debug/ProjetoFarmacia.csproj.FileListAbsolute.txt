@@ -8,3 +8,4 @@ C:\Users\dinaldo.jbneves\source\repos\ProjetoFarmacia\ProjetoFarmacia\obj\Debug\
 C:\Users\dinaldo.jbneves\source\repos\ProjetoFarmacia\ProjetoFarmacia\obj\Debug\ProjetoFarmacia.csproj.CoreCompileInputs.cache
 C:\Users\dinaldo.jbneves\source\repos\ProjetoFarmacia\ProjetoFarmacia\obj\Debug\ProjetoFarmacia.exe
 C:\Users\dinaldo.jbneves\source\repos\ProjetoFarmacia\ProjetoFarmacia\obj\Debug\ProjetoFarmacia.pdb
+C:\Users\dinaldo.jbneves\source\repos\ProjetoFarmacia\ProjetoFarmacia\obj\Debug\ProjetoFarmacia.frmCadastro.resources
