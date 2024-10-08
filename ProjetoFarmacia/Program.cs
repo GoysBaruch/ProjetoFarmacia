@@ -16,7 +16,7 @@ namespace ProjetoFarmacia
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new frmTelaPrincipal());
+            Application.Run(new frmLogin());
         }
     }
 }
